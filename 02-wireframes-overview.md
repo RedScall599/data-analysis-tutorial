@@ -18,11 +18,15 @@ This document describes the visual design and user interface patterns for the Ag
 - Recent analyses history
 - Quick tips for data preparation
 
+![Screen 1](./wireframe-imgs/screen1.png)
+
 ### 2. Data Preview Page
 - Tabular view of uploaded dataset
 - Column statistics panel (data types, null counts)
 - Quality score overview with color-coded indicators
 - Progress bar for analysis completion
+
+![Screen 2](./wireframe-imgs/screen2.png)
 
 ### 3. Analysis Results Page
 - Quality score dashboard with visual metrics
@@ -30,11 +34,18 @@ This document describes the visual design and user interface patterns for the Ag
 - Interactive charts showing data distributions
 - Downloadable recommendations report
 
+![Screen 3](./wireframe-imgs/screen3.png)
+
 ### 4. Detailed Insights Page
 - Column-by-column quality breakdown
 - Issue highlighting within data preview
 - Suggested fixes and improvement strategies
 - Before/after comparison visualizations
+
+![Screen 4](./wireframe-imgs/screen4.png)
+
+## Tech Stack & Milestones 
+![Tech Stack & Milestones Document](./wireframe-imgs/Tech-Stack-Milestones.png)
 
 ## Responsive Breakpoints
 

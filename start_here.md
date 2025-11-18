@@ -12,8 +12,8 @@ Welcome! This guide will help you prepare before starting development.
 
 **I have prepared:**
 - [ ] Development environment (Node.js v18+, VS Code, Git)
-- [ ] OpenAI API key ([Get one here](https://platform.openai.com/api-keys))
-- [ ] GitHub account for version control
+- [ ] OpenAI API key 
+- [ ] GitHub Repo for version control
 
 ## 🚀 Next Steps
 
