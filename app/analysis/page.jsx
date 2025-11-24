@@ -28,10 +28,6 @@ export default function AnalysisPage() {
 
   return (
     <div className="analysis-page" style={{ padding: 18 }}>
-      <div className="header-row">
-        <h1>Full Analysis</h1>
-        <Link href="/"><button className="back-home">Back to Home</button></Link>
-      </div>
 
       <section className="analysis-summary">
         <h2>Quality Score: {score}</h2>

@@ -30,7 +30,6 @@ export default function Home() {
           <Link href="/"><button className="nav-button">Home</button></Link>
           <Link href="/preview"><button className="nav-button">Preview</button></Link>
           <Link href="/results"><button className="nav-button">Results</button></Link>
-          <Link href="/insights"><button className="nav-button">Insights</button></Link>
         </nav>
       </header>
 

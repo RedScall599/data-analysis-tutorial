@@ -114,7 +114,6 @@ export default function AIInsights({ analysisSummary }) {
     <div className="ai-insights">
       <h3>AI Insights</h3>
       <div className="insights-actions" style={{ display: 'flex', gap: '8px', marginBottom: '8px' }}>
-        <Link href="/"><button className="nav-button">Back Home</button></Link>
       </div>
       <button className="back-home" onClick={fetchInsights} disabled={loading}>{loading ? 'Thinking...' : 'Generate Insights'}</button>
       {error && <div className="error-box">{error}</div>}
