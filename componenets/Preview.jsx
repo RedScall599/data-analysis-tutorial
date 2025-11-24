@@ -21,7 +21,7 @@ export default function Preview() {
         <h2>Initial Quality Overview</h2>
         <QualityScore />
         <div style={{ marginTop: 12 }}>
-          <Link href="/Results"><button className="back-home">Continue to Full Results →</button></Link>
+          <Link href="/results"><button className="back-home">Continue to Full Results →</button></Link>
         </div>
       </section>
     </div>
